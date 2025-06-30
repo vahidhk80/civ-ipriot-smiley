@@ -281,7 +281,7 @@ Include a screenshot of the sad smiley or the modified `main.py`:
   4. What is the easiest way you can think to change the smileys to green? Easiest, not necessarily the best!
      > Your answer here
 
-  Here's a revised version of the "Flexible Colors – Step 1" section for the smiley project, incorporating your specifications for formatting and content updates:
+
 
   ### 3.2. Flexible Colors – Step 1
 
